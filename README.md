@@ -26,7 +26,7 @@ Focado em evolução constante e em adquirir novos conhecimentos para crescer ca
 <img alt="React" height="40" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 <img alt="Git" height="40" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img alt="GitHub" height="40" width="50" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+<img alt="Node.js" width="50" height="40" hspace="8" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 </div>
 
 ## 🌐 Redes sociais

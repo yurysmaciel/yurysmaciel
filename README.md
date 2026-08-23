@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Yury Maciel</h1>
 
-<h3 align="center">Desenvolvedor Front-end em aprendizado contínuo 🚀</h3>
+<h3 align="center">Desenvolvedor FullStack em aprendizado contínuo</h3>
 
 <p align="center">
 Apaixonado por tecnologia e desenvolvimento web, criando projetos para evoluir minhas habilidades e transformar ideias em soluções práticas.
